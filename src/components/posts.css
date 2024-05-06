@@ -1,0 +1,24 @@
+.post {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.blockPost {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.likeBtn {
+    background-color: red;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+}
